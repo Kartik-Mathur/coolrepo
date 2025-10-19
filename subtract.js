@@ -3,3 +3,4 @@ function subtract(a,b){
 }
 
 subtract(10,20);
+console.log("hello hello")
