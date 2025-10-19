@@ -1,5 +1,5 @@
 function changePast(){
-    console.log("I am making changes in past branch");
+    console.log("bhaiya shaadi mat karna ladkiya maar ke chle jati hai");
 }
 
 changePast();
